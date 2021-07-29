@@ -1,0 +1,4 @@
+/.env/
+/todo-app-ui/node_modules/
+/todo-app-ui/package-lock.json/
+/todo-app-ui/.gitignore/
